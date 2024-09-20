@@ -1,0 +1,8 @@
+{
+  "tasks" : [
+    {
+      "command" : "cargo run",
+      "name" : "Run"
+    }
+  ]
+}

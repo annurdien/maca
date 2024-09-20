@@ -1,0 +1,44 @@
+{
+	"pattern": {
+		"parts": [
+			{
+				"name": "UNKNOWN",
+				"layers": [
+					{
+						"id": 10,
+						"sequences": [
+                            {
+                                "stiches": [{
+										"name": "SC",
+										"times": 1
+									},],
+                                "repeat": 6
+                            }
+						]
+					},
+				]
+			}
+
+
+{
+    "patern": {
+        "parts": [
+            {
+                "name": "HEAD",
+                "layers": [
+                    {
+                        "id": 1,
+                        "sequences": [
+                            {
+                                "stiches": [
+                                    {
+                                        "name": "SC",
+                                        "times":
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+}
